@@ -1,0 +1,33 @@
+body {
+  background-color:lightblue;
+}
+
+h1 {
+font-family:serif;
+font-size: 30px;
+color: red;
+text-align:center;
+}
+
+p {
+font-family: Comic;
+font-size:17px;
+}
+
+h2 {
+color: green;
+}
+
+h3 {
+text-decoration: underline;
+}
+
+img {
+  width: 45%;
+  display:block;
+  margin-bottom: 30px;
+}
+
+#AventadorSpecs,#PorscheSpecs,#R8Specs,#hideAventadorSpecs,#hidePorscheSpecs,#hideR8Specs  {
+  display:none;
+}
